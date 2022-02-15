@@ -2,4 +2,6 @@
 
 AUDIO ffixed
 
-runs Catalina with great Xcode performance 
+runs Catalina with great Xcode performance.
+
+Instant simulator launches and less time waste in loading time
